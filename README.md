@@ -1,5 +1,8 @@
 Hadoop_KMeans_MapReduce_Java
 ============================
+
+##I will rewrite KmeansCluster here: https://github.com/zhouhao/CS525-Big-Data-Course-Project/tree/master/Project2/task2-KmeansCluster
+
 ####Mapper####
 OUTPUT: `<centroid,point>`     
 key is the center point of the cluster which the point from value belongs to     
